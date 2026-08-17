@@ -2,6 +2,9 @@
 
 > A single-file, self-contained educational platform exploring the philosophy of Kashmir Shaivism through a warm, reading-focused interface. No build tools. No dependencies. Just open the HTML file.
 
+![Live website](https://jps-saahil.github.io/kashmirshaivism.github.io/)
+
+
 ---
 
 ## Table of Contents
